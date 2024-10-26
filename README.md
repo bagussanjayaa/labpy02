@@ -7,7 +7,7 @@ Kelas   : TI.24.A.5
 
 Matkul  : Bahasa Pemograman
 
-##membuat program dan flowchart tiket bioskop menggunakan if else dan operator ternary
+## membuat program dan flowchart tiket bioskop menggunakan if else dan operator ternary
 
 1. ![gambar](fw2.png)
 Titik awal dari flowchart menggunakan simbol oval.
@@ -39,19 +39,19 @@ Output atau tampilkan Total_harga tersebut.
 8. ![gambar](fw9.png)
 Dan selesai diakhiri dengan simbol oval.
 
-###Ini adalah flowchartnya:
+### Ini adalah flowchartnya:
 
 ![gambar](fw1.png)
 
-###Ini adalah Programnya dalam bentuk python:
+### Ini adalah Programnya dalam bentuk python:
 
 ![gambar](tiket1.png)
 
-###Ini adalah hasil dari program yang telah diinputkan:
+### Ini adalah hasil dari program yang telah diinputkan:
 
 ![gambar](tiket2.png)
 
-##Membuat program dan flowchart kalkulator sederhana menggunakan if elif else untuk menentukan operasi aritmatika
+## Membuat program dan flowchart kalkulator sederhana menggunakan if elif else untuk menentukan operasi aritmatika
 
 1. ![gambar](fc2.png)
 Titik awal dari flowchart menggunakan simbol oval.
@@ -105,10 +105,10 @@ Dan selesai diakhiri menggunakan simbol oval.
 
 ![gambar](fc1.png)
 
-###Ini adalah programnya dalam bentuk python:
+### Ini adalah programnya dalam bentuk python:
 
 ![gambar](kl1.png)
 
-###Ini adalah hasil dari program yang telah diinputkan:
+### Ini adalah hasil dari program yang telah diinputkan:
 
 ![gambar](kl2.png)
